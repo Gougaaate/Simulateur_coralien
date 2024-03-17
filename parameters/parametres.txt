@@ -1,0 +1,26 @@
+30 vitesse_p              Vitesse du plancton
+15 vitesse_l              Vitesse des larves
+12 nb_larves_multi        Nombre maximal de larves en mode jeu
+13 nb_rochers             Nombre initial de rochers
+15 nb_coraux              Nombre initial de larves
+7 r_larve                 Rayon des larves
+500 nb_plancton_init      Nombre initial de planctons
+10 nb_plancton_r          Nombre de planctons générés par tour
+1 r_plancton              Rayon du plancton
+1000 dimx                 Dimension horizontale de l'aquarium
+600 dimy                  Dimension verticale de l'aquarium
+50 r_min                  Rayon minimal des rochers initiaux
+120 r_max                 Rayon maximal des rochers initiaux
+0 nb_coraux_r             Nombre de larves apparaissant chaque tour
+30 capa                   Capacité de santé des larves
+1 dific_ponte             Coefficient de difficulté de ponte
+5 dific_app               Coefficient de difficulté d'apparition
+60 visibilité             Rayon de visibilité du plancton pour les larves
+2 endurance               Coefficient de perte de santé à chaque déplacement sans manger
+1 prix_ponte              Santé perdue à chaque ponte
+20 capa2                  Idem pour la colonie 2
+100 endurance2
+10 vitesse_l2
+30 visibilite2
+6 pH                      pH de l'eau : un pH éloigné de 7 favorise la disparition du calcaire
+1000 nb_tours_multi       Nombre de tours à partir du quel le mode jeu s'arrête
